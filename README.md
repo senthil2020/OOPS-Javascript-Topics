@@ -1,7 +1,5 @@
 # OOPS-Javascript-Topics
 
-OOPS Javascript Topics :
--------------------------
 1. Class: Defines the characteristics of the Object.
 
 2. Constructor: A method called at the moment of instantiation.
