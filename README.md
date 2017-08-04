@@ -1,21 +1,23 @@
 # OOPS-Javascript-Topics
 
-Class: Defines the characteristics of the Object.
+OOPS Javascript Topics :
+-------------------------
+1. Class: Defines the characteristics of the Object.
 
-Constructor: A method called at the moment of instantiation.
+2. Constructor: A method called at the moment of instantiation.
 
-Object: An Instance of a Class.
+3. Object: An Instance of a Class.
 
-Method: An Object capability as walk.
+4. Method: An Object capability as walk.
 
-Property: An Object characteristic, such as color.
+5. Property: An Object characteristic, such as color.
 
-Inheritance: A Class can inherit characteristics from another Class.
+6. Inheritance: A Class can inherit characteristics from another Class.
 
-Encapsulation: A Class defines only the characteristics of the Object, a method defines only how the method executes.
+7. Encapsulation: A Class defines only the characteristics of the Object, a method defines only how the method executes.
 
-Abstraction: The conjunction of complex inheritance, methods, properties of an Object must be able to simulate a reality model.
+9. Abstraction: The conjunction of complex inheritance, methods, properties of an Object must be able to simulate a reality model.
 
-Polymorphism: Different Classes might define the same method or property.
+10. Polymorphism: Different Classes might define the same method or property.
 
 Reference URL : http://viralpatel.net/blogs/object-oriented-programming-with-javascript/
